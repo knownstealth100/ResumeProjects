@@ -1,5 +1,6 @@
-# ResumeProjects
+# Maze Game
 
 To run the game using PyCharm, make sure the gamebox.py and maze.py files are in the same directory along with all the images.
 
 
+After doing so, RUN the maze.py file.
